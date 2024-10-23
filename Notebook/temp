@@ -1,0 +1,22 @@
+Parameters for Autovar
+************************
+
+START OF PARAMETERS:
+./data/walker_lake_samples_.dat           -file with data
+2  3  0  4  1                            -   columns for X,Y,Z,var,id
+-1.0e21   1.0e21                         -   trimming limits
+0   2                                    -Geolocated variogram? (1=yes), Number of anchors
+./data/anchor.out                         -file with anchors
+2 3 4                                    -X Y Z column of anchor file
+0                                        -Attemp to improve variogram?
+0  2  4                                  - Use general anisotropy ratio,maj/min,maj/ter
+26 8.0 10.0                              -nx,xmn,xsiz
+30 8.0 10.0                              -ny,ymn,ysiz
+1 0.5 1.0                                -nz,zmn,zsiz
+outputs/autovarmod_walker.out            -file for variogram model output
+outputs/autovar_walker.out               -   file for experimental pairs output
+outputs/debug_walker.out                 -   file for directions
+outputs/varfit_walker.out                -   variogram model text GSLIB format
+outputs/weights_walker.out               -   weights for each anchor
+1                                        -   Debug on screen (1=yes)
+1                                        - Disseminated(1) or stratigraphic(2) deposit type? 
