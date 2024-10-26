@@ -1,7 +1,7 @@
   3      0.00    -nst, nugget effect
-  1      0.21     39.94      0.00      0.00    -it,cc,azm,dip,tilt
-      21249.57      21249.57          0.00    -a_hmax, a_hmin, a_vert (ranges)
-  1      0.71     39.94      0.00      0.00    -it,cc,azm,dip,tilt
-     552138.24      48407.78          0.00    -a_hmax, a_hmin, a_vert (ranges)
-  1      0.07     39.94      0.00      0.00    -it,cc,azm,dip,tilt
-     552138.24      48387.41          0.00    -a_hmax, a_hmin, a_vert (ranges)
+  1      0.22     37.45      0.00      0.00    -it,cc,azm,dip,tilt
+      27965.15      27965.15          0.00    -a_hmax, a_hmin, a_vert (ranges)
+  1      0.76     37.45      0.00      0.00    -it,cc,azm,dip,tilt
+     551429.26      48131.78          0.00    -a_hmax, a_hmin, a_vert (ranges)
+  1      0.02     37.45      0.00      0.00    -it,cc,azm,dip,tilt
+     551427.51      48183.54          0.00    -a_hmax, a_hmin, a_vert (ranges)
